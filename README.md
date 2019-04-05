@@ -10,3 +10,10 @@ def cube(num, nums):
 
 
 print(cube(ex, xe))
+
+
+def super_cube(exp, exps):
+    return exp**exps**exp
+
+
+print(super_cube(ex, xe))
