@@ -1,0 +1,2 @@
+# cube
+a cubing function
